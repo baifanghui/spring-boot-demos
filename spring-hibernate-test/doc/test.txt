@@ -1,0 +1,3 @@
+http://localhost:8080/hibernate/getUserById?id=2
+
+http://localhost:8080/hibernate/saveUser
